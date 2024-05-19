@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/a4a8daaf971d43138ca0957f0e54dec3/artifacts
+end_time: 1716110208399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4a8daaf971d43138ca0957f0e54dec3
+run_name: clean-crow-395
+run_uuid: a4a8daaf971d43138ca0957f0e54dec3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716110203636
+status: 3
+tags: []
+user_id: LENOVO
